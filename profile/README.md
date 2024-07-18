@@ -39,6 +39,4 @@ All our projects are open-source and licensed under the [MIT License](https://gi
 
 Stay updated with our latest developments by following our GitHub organization. We regularly post updates, releases, and community news.
 
-![Bitcoin Logo](https://github.com/user-attachments/assets/6f851035-8cac-49a2-9fdc-9c7c4022a1b2)
-
 Thank you for visiting our GitHub organization. We appreciate your interest and support in building the future of the Bitcoin network with Sats Blockchain solutions.
