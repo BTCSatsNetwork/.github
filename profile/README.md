@@ -31,6 +31,9 @@ In addition to the main blockchain, we are also working on several projects to e
 
 We encourage contributions from the community and value your feedback. Please refer to our [Contribution Guidelines](https://github.com/) for detailed information on how to contribute to our projects.
 
+## Future Open Source
+We plan to open source this project under the [MIT License](https://opensource.org/licenses/MIT) at a future date. At that time, the full source code and all associated files will be made available to the public under the specified open source license.
+
 
 ## Follow Our Progress
 
