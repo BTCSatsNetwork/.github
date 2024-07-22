@@ -12,7 +12,7 @@ We are a team of innovators dedicated to enhancing the Bitcoin ecosystem by deve
 
 Sats Blockchain is our premier project. It utilizes Sats (BRC-20) Token as gas for transactions, ensuring an efficient and cost-effective blockchain solution that retains the robust security features of Bitcoin.
 
-- **Repository**: [Sats Blockchain](https://github.com/BTCSatsNetwork/SatsChain)
+- **Repository**: [SatsChain](https://github.com/BTCSatsNetwork/SatsChain)
 - **Key Features**:
   - **Bitcoin as Gas**: Transactions are processed using Bitcoin, providing a seamless integration with the Bitcoin network.
   - **Enhanced Security**: Built on Bitcoin's secure architecture, ensuring reliability and immutability.
@@ -29,11 +29,10 @@ In addition to the main blockchain, we are also working on several projects to e
 
 ## Contribution Guidelines
 
-We encourage contributions from the community and value your feedback. Please refer to our [Contribution Guidelines](https://github.com/) for detailed information on how to contribute to our projects.
+We encourage contributions from the community and value your feedback. Please refer to our [Contribution Guidelines](https://github.com/BTCSatsNetwork/SatsChain/blob/main/CONTRIBUTING.md) for detailed information on how to contribute to our projects.
 
-## License
-
-All our projects are open-source and licensed under the [MIT License](https://github.com). Feel free to use, modify, and distribute our code.
+## Future Open Source
+We plan to open source this project under the [MIT License](https://opensource.org/licenses/MIT) at a future date. At that time, the full source code and all associated files will be made available to the public under the specified open source license.
 
 ## Follow Our Progress
 
