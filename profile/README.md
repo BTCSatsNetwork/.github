@@ -8,7 +8,7 @@ We are a team of innovators dedicated to enhancing the Bitcoin ecosystem by deve
 
 ## Our Projects
 
-### Sats Blockchain
+### SatsChain
 
 Sats Blockchain is our premier project. It utilizes Sats (BRC-20) Token as gas for transactions, ensuring an efficient and cost-effective blockchain solution that retains the robust security features of Bitcoin.
 
@@ -18,6 +18,12 @@ Sats Blockchain is our premier project. It utilizes Sats (BRC-20) Token as gas f
   - **Enhanced Security**: Built on Bitcoin's secure architecture, ensuring reliability and immutability.
   - **Scalability**: Layer 2 solutions handle a high volume of transactions without compromising speed or cost.
   - **Smart Contract Support**: Enables the deployment and execution of smart contracts, fostering a rich ecosystem of DApps.
+### SatsChain Bridge (decentralized bridge)
+SatsChain Bridge (decentralized bridge) is an advanced technical solution designed to achieve decentralized asset transfer between Bitcoin assets (including BTC, BRC20, RUNES, etc.) and SatsChain.
+- **Repository**: [SatsChainBridge](https://github.com/BTCSatsNetwork/SatsChain-Bridge)
+- **User Interface**: https://satsbridge.bevm.io/
+![image](https://github.com/user-attachments/assets/2c661dd6-7549-42ea-a979-eb67a59fad68)
+  
 
 ### Supporting Projects
 
